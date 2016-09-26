@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IoT.GrainInterfaces", "IoT.GrainINterfaces\IoT.GrainInterfaces.csproj", "{D94DF99B-10FC-4828-AD98-5BA4FC3047E7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IoT.GrainClasses", "IoT.GrainClasses\IoT.GrainClasses.csproj", "{31878309-A123-4D51-BD75-163816FE6A15}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IoT.TestSilo", "IoT.TestSilo\IoT.TestSilo.csproj", "{C1AFDBCD-351A-4384-9298-CA1CAF305BD8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IoT.Models", "IoT.Models\IoT.Models.csproj", "{FF90E32A-18A6-484D-B720-E0EE2E346FF1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D94DF99B-10FC-4828-AD98-5BA4FC3047E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D94DF99B-10FC-4828-AD98-5BA4FC3047E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D94DF99B-10FC-4828-AD98-5BA4FC3047E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D94DF99B-10FC-4828-AD98-5BA4FC3047E7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{31878309-A123-4D51-BD75-163816FE6A15}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31878309-A123-4D51-BD75-163816FE6A15}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31878309-A123-4D51-BD75-163816FE6A15}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31878309-A123-4D51-BD75-163816FE6A15}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C1AFDBCD-351A-4384-9298-CA1CAF305BD8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1AFDBCD-351A-4384-9298-CA1CAF305BD8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1AFDBCD-351A-4384-9298-CA1CAF305BD8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1AFDBCD-351A-4384-9298-CA1CAF305BD8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FF90E32A-18A6-484D-B720-E0EE2E346FF1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF90E32A-18A6-484D-B720-E0EE2E346FF1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF90E32A-18A6-484D-B720-E0EE2E346FF1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF90E32A-18A6-484D-B720-E0EE2E346FF1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
